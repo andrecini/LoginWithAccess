@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CadastroLoginAccess\bin\Debug\CadastroLoginAccess.exe.config
+C:\Users\admin\source\repos\CadastroLoginAccess\bin\Debug\CadastroLoginAccess.exe
+C:\Users\admin\source\repos\CadastroLoginAccess\bin\Debug\CadastroLoginAccess.pdb
+C:\Users\admin\source\repos\CadastroLoginAccess\bin\Debug\CadastroLoginAccess.xml
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.Login.resources
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.Resources.resources
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.exe
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.xml
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.pdb
+C:\Users\admin\source\repos\CadastroLoginAccess\obj\Debug\CadastroLoginAccess.Main.resources
